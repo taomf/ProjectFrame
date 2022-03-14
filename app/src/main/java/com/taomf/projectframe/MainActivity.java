@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         int b = 3;
         int c = 4;
         int d = 5;
+        String ss = "taomf";
         int e = 6;
         int f = 7;
         int h = 8;
