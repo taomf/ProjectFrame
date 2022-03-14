@@ -14,5 +14,10 @@ public class MainActivity extends AppCompatActivity {
         int b = 3;
         int e = 9;
         int f = 10;
+        int c = 4;
+        int d = 5;
+
+        int h = 8;
+        int i = 9;
     }
 }
